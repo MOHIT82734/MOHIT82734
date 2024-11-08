@@ -47,8 +47,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br/>
 <p align="left">
-<a href="https:www.linkedin.com/in/mohit-singh-7a7a61251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit0007" height="30" width="40" /></a>
-<a href="//https://www.kaggle.com/mohit9759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohit9759" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohit-singh-7a7a61251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohit9759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohit9759" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/_mohit12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mohit12" height="30" width="40" /></a>
 </p>
 <br/><br/>
