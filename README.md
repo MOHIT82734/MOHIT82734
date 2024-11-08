@@ -39,7 +39,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 💬 Ask me about **MERN , SELENIUM**
 
-- 📫 How to reach me **mb279404@gmail.com@gmail.com**
+- 📫 How to reach me **mb279404@gmail.com**
 
 <br/><br/>
 
@@ -47,10 +47,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br/>
 <p align="left">
-<a href="https://linkedin.com/in/gauravrawat007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gauravrawat007" height="30" width="40" /></a>
-<a href="https://kaggle.com/roman2059a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="roman2059a" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rootgaurav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rootgaurav" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rootgaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rootgaurav" height="30" width="40" /></a>
+<a href="https:www.linkedin.com/in/mohit-singh-7a7a61251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit0007" height="30" width="40" /></a>
+<a href="//https://www.kaggle.com/mohit9759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohit9759" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/_mohit12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_mohit12" height="30" width="40" /></a>
 </p>
 <br/><br/>
 
