@@ -33,13 +33,13 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br/>
 
-- 🔭 I’m currently working on **POKEDEX**
+- 🔭 I’m currently working on **E- comerce site clone**
 
 - 🌱 I’m currently learning **React , SELENIUM**
 
 - 💬 Ask me about **MERN , SELENIUM**
 
-- 📫 How to reach me **gauravrawat0259@gmail.com**
+- 📫 How to reach me **mb279404@gmail.com@gmail.com**
 
 <br/><br/>
 
