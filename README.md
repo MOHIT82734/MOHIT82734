@@ -1,6 +1,6 @@
 
 
-## Hey 👋, I'm Gaurav Rawat
+## Hey 👋, I'm Mohit Singh
 <br/>
 <br/>
 <br/>
@@ -22,9 +22,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rootgaurav&label=Profile%20views&color=0e75b6&style=flat" alt="rootgaurav" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MOHIT82734&label=Profile%20views&color=0e75b6&style=flat" alt="MOHIT82734" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rootgaurav" alt="rootgaurav" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MOHIT82734" alt="MOHIT82734" /></a> </p>
 
 
 <br/>
@@ -72,8 +72,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
   <br/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rootgaurav&show_icons=true&locale=en&layout=compact" alt="rootgaurav"  width="450"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHIT82734&show_icons=true&locale=en&layout=compact" alt="MOHIT82734"  width="450"/>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rootgaurav&show_icons=true&locale=en" alt="rootgaurav"  width="450"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=MOHIT82734&show_icons=true&locale=en" alt="MOHIT82734"  width="450"/>
  
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rootgaurav&" alt="rootgaurav" width="450"/>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=MOHIT82734&" alt="MOHIT82734" width="450"/>
