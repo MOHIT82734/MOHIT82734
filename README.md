@@ -35,9 +35,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 - 🔭 I’m currently working on **E- comerce site clone**
 
-- 🌱 I’m currently learning **React , SELENIUM**
+- 🌱 I’m currently learning **React , JAVA**
 
-- 💬 Ask me about **MERN , SELENIUM**
+- 💬 Ask me about **MERN , JAVA **
 
 - 📫 How to reach me **mb279404@gmail.com**
 
